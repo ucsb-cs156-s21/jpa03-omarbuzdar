@@ -12,6 +12,7 @@ On Heroku: https://jpa03-omarbuzdar.herokuapp.com
   correct codecov report.
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-omarbuzdar
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-omarbuzdar/branch/main/graph/badge.svg?token=vMnG9yyKtJ)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-omarbuzdar)
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
 
